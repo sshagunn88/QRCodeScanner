@@ -17,24 +17,15 @@ A simple and elegant QR Code Scanner mobile application built using **React Nati
 ### 1. Clone the repository
 
 ```bash
-git clone 
-cd your-repo-name
+git clone https://github.com/sshagunn88/QRCodeScanner.git
+cd QRCodeScanner
 2. Install dependencies
-bash
-Copy
-Edit
 npm install
 3. Run the app
-bash
-Copy
-Edit
 npx expo start
 Open the app in an emulator or your phone using Expo Go app.
 
 📂 Project Structure
-go
-Copy
-Edit
 .
 ├── App.js
 ├── QRScanner.js
