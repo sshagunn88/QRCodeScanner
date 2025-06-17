@@ -11,18 +11,13 @@ A simple and elegant QR Code Scanner mobile application built using **React Nati
 - 🏁 Welcome screen before scanning begins
 - ⚙️ Built using Expo Camera and React Native
 
-## 🖼️ Screens
-
-| Welcome Screen | Scanner View | Scan Result |
-|----------------|--------------|-------------|
-| ![Welcome](./screens/welcome.png) | ![Scanner](./screens/scanner.png) | ![Result](./screens/result.png) |
 
 ## 🚀 How to Run
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone 
 cd your-repo-name
 2. Install dependencies
 bash
